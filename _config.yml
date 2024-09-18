@@ -1,0 +1,59 @@
+# Basic Information 
+title: Shiyuan Zhang
+position: Graduate Student 
+affiliation: University of illinois at Urbana-Champaign
+affiliation_link: https://cs.illinois.edu/
+affiliation_logo: ./assets/img/University_of_Illinois_at_Urbana–Champaign_logo.svg
+email: sz54 (at) illinois.edu
+# email2: seandailyuse (at) gmail.com
+
+# Search Engine Optimization (SEO)
+keywords: shiyuan zhang, zhang shiyuan, shiyuanzhang, zhangshiyuan, Sean
+canonical: https://seanzh30.github.io/
+description: Shiyuan Zhang is a master student at University of illinois. His research lies in trustworthy machine learning, adversarial robustness, and privacy-preserving machine learning.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=1DPuL94AAAAJ&hl=en
+# cv_link: ./assets/files/Resume_Shiyuan.pdf
+github_link: https://github.com/SeanZh30
+linkedin: https://www.linkedin.com/in/shiyuan-zhang-309b24225/
+# twitter: 
+
+# Images 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnotes
+footnote: My blog link.
+footnote_link: https://seanblog.notion.site/Sean-s-Blog-473f8c916db24cf89d64f7382dadaa1b
+footnote2: S.Liang@HKU
+footnote_link2: https://tsliang.top
+footnote3: Z.Wang@SYSU
+footnote_link3: https://www.naptmn.cn
+footnote4: S.Yang@ZJUI
+footnote_link4: https://foollain.github.io
+
+footnote5: "Follow:"
+footnote_link5: 
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+font: "Sans Serif" # or "Sans Serif"
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

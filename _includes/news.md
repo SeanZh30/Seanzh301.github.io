@@ -1,12 +1,12 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 60px 0px 10px;">News</h2>
+<h2 style="margin: 30px 0px 10px;">News</h2>
+
 <ul>
-  <li><strong>[07/2024]</strong> One of our ongoing projects about computational copyright is available on Arxiv.</li>
-  <li><strong>[10/2023]</strong> Excited to join the TRAIS lab, working with Professor Jiaqi Ma.</li>
+  <li><strong>[07/2024]</strong> One paper about the Efficient Data Attribution Python library is accepted to NeurIPS D&B Track 2024 as a spotlight.</li>
+  <li><strong>[07/2024]</strong> One of our ongoing projects about computational copyright updated on Arxiv.</li>
   <li><strong>[05/2023]</strong> Proudly graduated from UIUC with Highest Distinction!</li>
-  <li><strong>[04/2023]</strong> Honored to keep in the Dean's List all semesters at UIUC.</li>
-  <li><strong>[02/2023]</strong> Thrilled to have been admitted to the UIUC Master's program in Computer Science!</li>
+  <li><strong>[05/2023]</strong> Thrilled to have been admitted to the UIUC Master's program in Computer Science!</li>
 </ul>
 <!-- <ul>
 <li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>

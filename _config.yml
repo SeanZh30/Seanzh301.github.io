@@ -27,8 +27,8 @@ linkedin: https://www.linkedin.com/in/shiyuan-zhang-309b24225/
 # twitter: 
 
 # Images 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
+avatar: /assets/img/avatar.png
+favicon: /assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes

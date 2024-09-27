@@ -6,7 +6,7 @@ layout: homepage
 
 
 ## About me
-Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master’s student at <a href="https://cs.illinois.edu/">University of Illinois Urbana-Champaign</a>. My research interest lies in trustworthy machine learning, data centric AI, LLM, and machine unlearning. Currently I am fortunate to work with Professor <a href="https://jiaqima.github.io/">Jiaqi Ma</a>. Prior to this, I completed my Bachelor's degree also at the UIUC. In life, I have the perfect companionship of this white rag called <a href="./assets/img/lulu.jpg">Lulu</a>.
+Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master’s student at University of Illinois Urbana-Champaign. My research interest lies in <strong>trustworthy machine learning, data centric AI, machine unlearning and VLMs</strong>. Currently I am fortunate to work with Professor <a href="https://jiaqima.github.io/">Jiaqi Ma</a>. Prior to this, I completed my Bachelor's degree also at the UIUC. In life, I have the perfect companionship of this white rag called <a href="./assets/img/lulu.jpg">Lulu</a>.
 
 <!-- ## Research Interests
 
@@ -19,15 +19,6 @@ Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master’s student at <
 
 {% include_relative _includes/preprints.md %}
 
+{% include_relative _includes/publications.md %}
 
-
-{% include_relative _includes/education.md %}
-
-{% include_relative _includes/teaching.md %}
-
-{% include_relative _includes/services.md %}
-
-<!-- <div style="text-align: left;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=VCWWBgKqEMgmcCbiQIfHQEbjof7zEBNTXPZDf91Iags&co=ffffff&cmo=9100c4&cmn=00308c&ct=ffffff'></script>
-</div> -->
 

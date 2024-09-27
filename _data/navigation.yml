@@ -10,16 +10,21 @@ main:
   #- title: "Talks"
   #  url: ./#invited-talks
 
-  #- title: "Teaching"
-  #  url: ./#teaching
 
-  - title: "Publications"
-    url: ./#preprints
+    
+
+  - title: "Teaching&Services"
+    url: /teaching/
     right: true 
 
-  - title: "News"
-    url: ./#news
+  - title: "Experience"
+    url: /experience/
+
+  # - title: "News"
+  #   url: /#news
+  - title: "Publications"
+    url: /#preprints
 
   - title: "About me"
-    url: ./#about-me
+    url: /
 

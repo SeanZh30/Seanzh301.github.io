@@ -19,6 +19,5 @@ Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master’s student at U
 
 {% include_relative _includes/preprints.md %}
 
-<!-- {% include_relative _includes/publications.md %} -->
 
 

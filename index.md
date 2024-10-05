@@ -6,7 +6,7 @@ layout: homepage
 
 
 ## About me
-Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master’s student at University of Illinois Urbana-Champaign. My research interest lies in <strong>trustworthy machine learning, data centric AI, machine unlearning and VLMs</strong>. Currently I am fortunate to work with Professor <a href="https://jiaqima.github.io/">Jiaqi Ma</a>. Prior to this, I completed my Bachelor's degree also at the UIUC. In life, I have the perfect companionship of this white rag called <a href="./assets/img/lulu.jpg">Lulu</a>.
+Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master’s student at University of Illinois Urbana-Champaign. My research interest lies in <strong>trustworthy machine learning, data centric AI, and VLMs</strong>. Currently I am fortunate to work with Professor <a href="https://jiaqima.github.io/">Jiaqi Ma</a>. Prior to this, I completed my Bachelor's degree also at the UIUC. In life, I have the perfect companionship of this white rag called <a href="./assets/img/lulu.jpg">Lulu</a>.
 
 <!-- ## Research Interests
 

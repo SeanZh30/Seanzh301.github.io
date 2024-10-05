@@ -2,7 +2,7 @@ main:
   - title: "dattri: A Library for Efficient Data Attribution"
     authors: Junwei Deng*, Ting Wei Li*, <strong>Shiyuan Zhang</strong>, Shixuan Liu, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi Ma
     conference_short: NeurIPS
-    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024. 
+    conference: NeurIPS 2024 (Datasets and Benchmark Track, <strong>Spotlight</strong>).
     #conference: International Conference on Learning Representations (ICLR)
     pdf: 
     page: https://trais-lab.github.io/dattri/

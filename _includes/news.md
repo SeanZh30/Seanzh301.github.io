@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-  <li><strong>[07/2024]</strong> One paper about the Efficient Data Attribution library is accepted to NeurIPS D&B Track 2024.</li>
+  <li><strong>[07/2024]</strong> One paper accepted by NeurIPS 2024 D&B Track (Spotlight).</li>
   <li><strong>[07/2024]</strong> One of our ongoing projects about computational copyright updated on Arxiv.</li>
   <li><strong>[05/2023]</strong> Proudly graduated from UIUC with Highest Distinction!</li>
   <li><strong>[05/2023]</strong> Thrilled to have been admitted to the UIUC Master's program in Computer Science!</li>

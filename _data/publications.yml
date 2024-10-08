@@ -1,12 +1,13 @@
 main:
   - title: "dattri: A Library for Efficient Data Attribution"
-    authors: Junwei Deng*, Ting Wei Li*, <strong>Shiyuan Zhang</strong>, Shixuan Liu, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi Ma
+    authors: Junwei Deng*, Ting Wei Li*, <strong>Shiyuan Zhang</strong>, Shixuan Liu, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma
     conference_short: NeurIPS
     conference: NeurIPS 2024 (Datasets and Benchmark Track, <strong>Spotlight</strong>).
     #conference: International Conference on Learning Representations (ICLR)
-    pdf: 
+    pdf: https://arxiv.org/pdf/2410.04555
     page: https://trais-lab.github.io/dattri/
     code: https://github.com/TRAIS-Lab/dattri
+    arxiv: https://arxiv.org/abs/2410.04555
     bibtex: 
     image: ./assets/img/dattri.png
     notes: Spotlight
@@ -37,23 +38,23 @@ main:
   #   image: https://img.yliu.me/teaser/dst.png
   #   notes: Spotlight
 
-  # #- title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
-  # #  authors: Ruxiao Duan, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jieneng Chen, Adam Kortylewski, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
-  # #  conference_short: Preprint
-  # #  conference: Under review.
-  # #  pdf: https://arxiv.org/pdf/2311.18266.pdf
-  # #  bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-2311-18266.html?view=bibtex
-  # #  code: https://github.com/KerryDRX/ESCORT
-  # #  image: https://img.yliu.me/arxiv_23_2.png
+  #- title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
+  #  authors: Ruxiao Duan, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jieneng Chen, Adam Kortylewski, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+  #  conference_short: Preprint
+  #  conference: Under review.
+  #  pdf: https://arxiv.org/pdf/2311.18266.pdf
+  #  bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-2311-18266.html?view=bibtex
+  #  code: https://github.com/KerryDRX/ESCORT
+  #  image: https://img.yliu.me/arxiv_23_2.png
 
-  # #- title: Continual Adversarial Defense
-  # #  authors: Qian Wang, <strong>Yaoyao Liu</strong>, Hefei Ling, Yingwei Li, Qihao Liu, Ping Li, Jiazhong Chen, Alan Yuille, Ning Yu
-  # #  conference_short: Preprint
-  # #  conference: Under review.
-  # #  pdf: https://arxiv.org/pdf/2312.09481.pdf
-  # #  bibtex: https://bib.yliu.me/arXiv_2023_3.txt
-  # #  code: https://github.com/cc13qq/CAD
-  # #  image: https://img.yliu.me/arxiv_CAD.png
+  #- title: Continual Adversarial Defense
+  #  authors: Qian Wang, <strong>Yaoyao Liu</strong>, Hefei Ling, Yingwei Li, Qihao Liu, Ping Li, Jiazhong Chen, Alan Yuille, Ning Yu
+  #  conference_short: Preprint
+  #  conference: Under review.
+  #  pdf: https://arxiv.org/pdf/2312.09481.pdf
+  #  bibtex: https://bib.yliu.me/arXiv_2023_3.txt
+  #  code: https://github.com/cc13qq/CAD
+  #  image: https://img.yliu.me/arxiv_CAD.png
 
   # - title: "Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"
   #   authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun

@@ -14,18 +14,19 @@ main:
     # field: "# Benchmark"
     # field2: "# Data Attribution"
 
-  # - title: "Nuanced Multi-class Detection of Machine-Generated Scientific Text"
-  #   authors: <strong>Shiyuan Zhang</strong>, Yubin Ge, Xiaofeng Liu
-  #   conference_short: ICLR
-  #   conference: International Conference on Learning Representations (ICLR)
-  #   page: https://github.com/SeanZh30/ScientificText_Detection
-  #   pdf: 
-  #   code: https://github.com/SeanZh30/ScientificText_Detection
-  #   bibtex: 
-  #   # field: "# NLP"
-  #   # field2: "# Dataset"
-  #   image: ./assets/img/scitext.png
-  #   notes: 
+  - title: "Nuanced Multi-class Detection of Machine-Generated Scientific Text"
+    authors: <strong>Shiyuan Zhang</strong>, Yubin Ge, Xiaofeng Liu
+    conference_short: ICLR
+    conference: 38th Pacific Asia Conference on Language, Information and Computation 
+    page: https://github.com/SeanZh30/ScientificText_Detection
+    pdf: 
+    code: https://github.com/SeanZh30/ScientificText_Detection
+    bibtex: 
+    # field: "# NLP"
+    # field2: "# Dataset"
+    image: ./assets/img/scitext.png
+    notes: Oral
+    notes: 
 
   # - title: Generating Images with 3D Annotations Using Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)

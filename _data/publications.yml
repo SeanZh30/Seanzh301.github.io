@@ -25,7 +25,7 @@ main:
     # field: "# NLP"
     # field2: "# Dataset"
     image: ./assets/img/scitext.png
-    notes: Oral
+    notes: Oral Presentation
 
   # - title: Generating Images with 3D Annotations Using Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)

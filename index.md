@@ -22,3 +22,6 @@ Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master’s student at U
 {% include_relative _includes/publications.md %}
 
 
+<div style="text-align: left;">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=VCWWBgKqEMgmcCbiQIfHQEbjof7zEBNTXPZDf91Iags&co=ffffff&cmo=9100c4&cmn=00308c&ct=ffffff'></script>
+</div>
